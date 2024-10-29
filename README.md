@@ -5,16 +5,15 @@
 You can download the program [here](https://github.com/LunarEclipseCode/ventoy-assist/releases).
 
 <div align="center">
-Apply Icons Tab
+    <h3>Apply Icons Tab</h3>
+    <img src="images/apply-icons.png" alt="Apply Icons">
 </div>
-
-![apply-icons.png](images/apply-icons.png)
 
 <div align="center">
-Rename Tab
+    <h3>Rename Tab</h3>
+    <img src="images/rename.png" alt="Rename">
 </div>
 
-![rename.png](images/rename.png)
 
 ## Features
 
@@ -30,9 +29,11 @@ Rename Tab
 
 - **Better renaming UI**: Provides an easier way to rename files and folders with dropdowns and autocomplete suggestions.
 
-![rename-dropdown-crop.png](images/rename-dropdown-crop.png)
+<div align="center">
+    <img src="images/rename-dropdown-crop.png" alt="rename-dropdown">
+    <img src="images/rename-autocomplete-crop.png" alt="rename-autocomplete">
+</div>
 
-![rename-autocomplete-crop.png](images/rename-autocomplete-crop.png)
 
 ## Prerequisites
 
