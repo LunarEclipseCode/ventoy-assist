@@ -1,0 +1,6 @@
+build/
+dist/
+venv/
+ventoy-assist.spec
+ventoy-assist.zip
+upx-4.2.4-win64/

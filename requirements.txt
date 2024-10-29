@@ -1,0 +1,6 @@
+PyQt6
+Pillow
+screeninfo
+scikit-image
+numpy
+pywin32

@@ -1,0 +1,88 @@
+Icon Sources
+Please note that the images in the link may not exactly match the icons in the repository. 
+After downloading, many images have been modified through format conversion, upscaling/downscaling, background removal, or cropping.
+alma -> https://commons.wikimedia.org/wiki/File:AlmaLinux_Icon_Logo.svg
+alpine -> https://en.m.wikipedia.org/wiki/File:Alpine_Linux.svg
+android -> https://commons.wikimedia.org/wiki/File:Android_robot_(2014-2019).svg
+antix -> https://www.antixforum.com/wp-content/uploads/2019/06/g945.png
+archcraft -> https://commons.wikimedia.org/wiki/File:Archcraft-alternative-logo.svg
+archlabs -> https://commons.wikimedia.org/wiki/File:Archlabs_Logo.png
+archlinux -> https://commons.wikimedia.org/wiki/File:Arch_Linux_%22Crystal%22_icon.svg
+archman -> https://archman.org/wp-content/uploads/2020/06/archman-logo.png
+artix -> https://commons.wikimedia.org/wiki/File:Artix_logo.svg
+athena -> https://athenaos.org/_astro/athena-light.C3v5GV8c.svg
+avira -> https://en.m.wikipedia.org/wiki/File:Avira_logo_2014.svg
+batocera -> https://batocera.org/images/head/logo-tri.png
+blend -> https://user-images.githubusercontent.com/26926757/235855282-34d9a8f5-f92b-4ce3-855e-9e2e6551a3bf.png
+bliss -> https://blissos.org/images/BlissIcon.png
+cachy -> https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg
+caine -> https://www.caine-live.net/page4/caine-logo-db5.png
+cent -> https://commons.wikimedia.org/wiki/File:CentOS_color_logo.svg
+chrome -> https://commons.wikimedia.org/wiki/File:Google_Chrome_icon_(February_2022).svg
+cutefish -> https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/branding/Cutefish-Logo.svg
+debian -> https://en.m.wikipedia.org/wiki/File:Openlogo-debianV2.svg
+deepin -> https://commons.wikimedia.org/wiki/File:Deepin_logo.svg
+defender -> https://en.m.wikipedia.org/wiki/File:Windows-defender.svg
+drac -> https://avatars.githubusercontent.com/u/89889961?s=200&v=4
+edubuntu -> https://commons.wikimedia.org/wiki/File:Edubuntu_icon.svg
+elementary - https://iconduck.com/icons/312909/distributor-logo-elementary
+fedora -> https://en.m.wikipedia.org/wiki/File:Fedora_icon_%282021%29.svg
+feren - https://ferenos.weebly.com/press-kit.html
+freebsd -> https://en.wikipedia.org/wiki/File:Freebsd_logo.svg
+garuda -> https://commons.wikimedia.org/wiki/File:Garuda-blue-sgs.svg
+gentoo -> https://en.m.wikipedia.org/wiki/File:Gentoo_Linux_logo_matte.svg
+ghostbsd -> https://github.com/ghostbsd/ghostbsd-logo/blob/master/glogo-and-circle.svg
+gparted -> https://iconduck.com/icons/152093/gparted
+kali -> https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg
+kaOS -> https://commons.wikimedia.org/wiki/File:Antu_distributor-logo-kaos.svg
+kde-neon -> https://en.m.wikipedia.org/wiki/File:Neon-logo.svg
+kubuntu -> https://en.m.wikipedia.org/wiki/File:Kubuntu_logo.svg
+kylin -> https://en.wikipedia.org/wiki/File:Ubuntu_Kylin_logo.png
+lubuntu -> https://commons.wikimedia.org/wiki/File:Lubuntu_logo_only.svg
+mageia -> https://commons.wikimedia.org/wiki/File:Antu_distributor-logo-mageia.svg
+manjaro -> https://en.wikipedia.org/wiki/File:Manjaro-logo.svg
+medicat -> https://medicatusb.com/_astro/site_icon.f7a9b4b8_Z2buTUw.png
+midnight-bsd -> https://commons.wikimedia.org/wiki/File:MidnightBSDLogo.svg
+mint -> https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg
+mxlinux -> https://commons.wikimedia.org/wiki/File:MX_LINUX_Logo.svg
+nix -> https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg
+openmandriva -> https://commons.wikimedia.org/wiki/File:OpenMandriva_Logo.svg
+opensuse -> https://github.com/openSUSE/artwork/blob/master/logos/buttons/button-colour.svg
+parrot -> https://gitlab.com/parrotsec/project/graphics/-/blob/master/logo/parrotsec-logo.png
+pentoo -> https://commons.wikimedia.org/wiki/File:Gentoo-logo-dark.svg
+peppermint -> https://codeberg.org/Peppermint_OS/Logos-Sliders/src/branch/master/logo.svg
+pika -> https://git.pika-os.com/website/pika-branding/raw/branch/main/logos/pika-logo.svg
+pop -> https://commons.wikimedia.org/wiki/File:Pop!_OS_Icon.svg
+proxmox -> https://github.com/andOTP/andOTP/issues/337
+pup -> https://commons.wikimedia.org/wiki/File:Puppy_logo.svg
+qubes -> https://commons.wikimedia.org/wiki/File:Qubes_OS_Logo.svg
+rocky -> https://commons.wikimedia.org/wiki/File:Rocky_Linux_logo.svg
+sabayon -> https://commons.wikimedia.org/wiki/File:SabayonLinux_logo.png
+scientific -> https://commons.wikimedia.org/wiki/File:Scientific_Linux_logo.svg
+seatools -> https://en.m.wikipedia.org/wiki/File:Seagate_logo.svg
+slax -> https://www.shareicon.net/slax-101914
+solus -> https://commons.wikimedia.org/wiki/File:Solus.svg
+steam -> https://en.m.wikipedia.org/wiki/File:Steam_icon_logo.svg
+tails -> https://iconduck.com/icons/312933/distributor-logo-tails
+ubuntu -> https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg
+ubuntu-budgie -> https://commons.wikimedia.org/wiki/File:Ubuntu_Budgie_No_Wordmark.svg
+ubuntu-cinnamon -> https://commons.wikimedia.org/wiki/File:UbuntuCinnamon.svg
+ubuntu-mate -> https://commons.wikimedia.org/wiki/File:Ubuntu_MATE_rondel_logo.svg
+ubuntu-studio -> https://commons.wikimedia.org/wiki/File:Ubuntustudio_v3_logo_only.svg
+ubuntu-unity -> https://commons.wikimedia.org/wiki/File:Ubuntu_Unity_Logo.png
+windows7 -> https://sw.wikipedia.org/wiki/Faili:Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg
+windows8 -> https://bs.wikipedia.org/wiki/Datoteka:Windows_logo_-_2012_derivative.svg
+windows10 -> https://en.m.wikipedia.org/wiki/File:Windows_logo_-_2012.svg
+windows11 -> https://en.m.wikipedia.org/wiki/File:Windows_logo_-_2021.svg
+wubuntu -> https://commons.wikimedia.org/wiki/File:Wubuntu_logo.png
+xubuntu -> https://commons.wikimedia.org/wiki/File:Xubuntu_logo.svg
+zorin -> https://commons.wikimedia.org/wiki/File:Zorin_Logomark.svg
+
+Icon sources for the info bar in the theme shown in the README file:
+[F1] RAM -> https://www.svgrepo.com/svg/456226/memory-ram
+[F2] Power -> https://www.svgrepo.com/svg/510139/power-symbol
+[F3] Sort -> https://www.svgrepo.com/svg/469841/sort-ascending
+[F4] Disc -> https://www.svgrepo.com/svg/480227/cd
+[F5] USB -> https://www.svgrepo.com/svg/478147/usb-free-material
+[F6] Text -> https://www.svgrepo.com/svg/446062/text-left
+[F7] Terminal -> https://www.svgrepo.com/svg/507872/terminal
